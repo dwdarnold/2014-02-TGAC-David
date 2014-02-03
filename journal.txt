@@ -1,7 +1,8 @@
-Authors:
-Title:
+Authors: David Arnold
+Title: A paper
 
-Introduction:
-Data:
-Analysis:
+Introduction: introduction words
+Data: data words
+
+Analysis: 
 Conclusion:
