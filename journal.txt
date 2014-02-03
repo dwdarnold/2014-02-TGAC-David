@@ -1,4 +1,4 @@
-Authors: David Arnold and J. Jackson
+Authors: Lindsay Edwards, David Arnold and J. Jackson
 Title: A slightly better paper
 
 Introduction: introduction words
