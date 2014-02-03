@@ -5,4 +5,4 @@ Introduction: introduction words
 Data: John's data
 
 Analysis:[note - do this] 
-Conclusion: This is a not very good paper 
+Conclusion: This is a fantastic paper 
