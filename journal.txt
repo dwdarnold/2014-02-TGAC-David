@@ -2,7 +2,7 @@ Authors: David Arnold and J. Jackson
 Title: A slightly better paper
 
 Introduction: introduction words
-Data: John's data
+Data: I've decided I don't like John's data, I should use something else instead
 
 Analysis:[note - do this] 
 Conclusion: This is a fairly mediocre paper 
