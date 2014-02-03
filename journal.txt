@@ -4,5 +4,5 @@ Title: A slightly better paper
 Introduction: introduction words
 Data: I've decided I don't like John's data, I should use something else instead
 
-Analysis:[note - do this] 
-Conclusion: This is a fairly mediocre paper 
+Analysis: This means something.
+Conclusion: This is a fantastic paper; honestly, it will change the world. 
