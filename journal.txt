@@ -1,8 +1,8 @@
-Authors: David Arnold
-Title: A paper
+Authors: John Smith and David Arnold 
+Title: A slightly better paper
 
 Introduction: introduction words
-Data: data words
+Data: John's data
 
-Analysis: 
+Analysis:[note - do this] 
 Conclusion: This is a not very good paper 
